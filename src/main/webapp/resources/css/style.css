@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+header{
+	
+	height:200px;
+}
+
+.form{
+	
+	margin:auto !important;
+}
+
+p.error{
+	
+	color:red !important;
+}
